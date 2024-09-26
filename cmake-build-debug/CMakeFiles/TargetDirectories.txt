@@ -1,0 +1,3 @@
+C:/Users/Marius/CLionProjects/OtherCmakeProjectVCPKG/cmake-build-debug/CMakeFiles/OtherCmakeProjectVCPKG.dir
+C:/Users/Marius/CLionProjects/OtherCmakeProjectVCPKG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Marius/CLionProjects/OtherCmakeProjectVCPKG/cmake-build-debug/CMakeFiles/rebuild_cache.dir

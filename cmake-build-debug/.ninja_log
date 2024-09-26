@@ -1,0 +1,4 @@
+# ninja log v6
+3	381	7490802171811678	build.ninja	364ad951c5d6a5e4
+3	2115	7490801856010234	CMakeFiles/OtherCmakeProjectVCPKG.dir/main.cpp.obj	1096e1b66425cc7a
+2120	4557	7490801877188028	OtherCmakeProjectVCPKG.exe	c1455fc5ee667212
