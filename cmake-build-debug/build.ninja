@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_OtherCmakeProjectVCPKG: phony || .
 
 build CMakeFiles/OtherCmakeProjectVCPKG.dir/main.cpp.obj: CXX_COMPILER__OtherCmakeProjectVCPKG_unscanned_Debug C$:/Users/Marius/CLionProjects/OtherCmakeProjectVCPKG/main.cpp || cmake_object_order_depends_target_OtherCmakeProjectVCPKG
   DEP_FILE = CMakeFiles\OtherCmakeProjectVCPKG.dir\main.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   INCLUDES = -isystem C:/Users/Marius/.vcpkg-clion/vcpkg/installed/x64-mingw-dynamic/include
   OBJECT_DIR = CMakeFiles\OtherCmakeProjectVCPKG.dir
   OBJECT_FILE_DIR = CMakeFiles\OtherCmakeProjectVCPKG.dir
